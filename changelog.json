@@ -1,0 +1,31 @@
+{
+    "version": "v0.1",
+    "date": "2025-01-24",
+    "changes": [
+      {
+        "type": "Added",
+        "feature": "Shader editor with GLSL syntax support"
+      },
+      {
+        "type": "Added",
+        "feature": "Live shader preview with WebGL"
+      },
+      {
+        "type": "Added",
+        "feature": "Monaco editor integration with GLSL highlighting"
+      },
+      {
+        "type": "Added",
+        "feature": "Basic error handling for shader compilation"
+      },
+      {
+        "type": "Planned",
+        "feature": "Polished UI for v1.0"
+      },
+      {
+        "type": "Planned",
+        "feature": "Support for WGSL format"
+      }
+    ]
+  }
+  
