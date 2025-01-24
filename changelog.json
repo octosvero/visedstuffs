@@ -25,6 +25,10 @@
       {
         "type": "Planned",
         "feature": "Support for WGSL format"
+      },
+      {
+        "type": "Planned",
+        "feature": "Better error handling"
       }
     ]
   }
